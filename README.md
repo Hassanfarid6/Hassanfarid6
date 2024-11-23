@@ -72,7 +72,7 @@
   <a href="https://instagram.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-   <a href="mailto:ahmednoorani258@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IpB5yPUkCFHOzlmM-O7ncAHaFW%26pid%3DApi&f=1&ipt=e54e6924daf2c63f0e46035ea360d822e1265ab3d5be7c95a328f31c7fdd995a&ipo=images" alt="Email Icon" align="center" height="30" width="40"/></a>
+   <a href="mailto:hassanfarid667@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IpB5yPUkCFHOzlmM-O7ncAHaFW%26pid%3DApi&f=1&ipt=e54e6924daf2c63f0e46035ea360d822e1265ab3d5be7c95a328f31c7fdd995a&ipo=images" alt="Email Icon" align="center" height="30" width="40"/></a>
 </p>
 
 ---
@@ -86,11 +86,11 @@
 
 
 <p align="center">
-    <a href="https://github.com/Ahmednoorani258">
+    <a href="https://github.com/hassanfarid667">
       <img src="https://readme-stats.warengonzaga.com/api?username=Ahmednoorani258&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Ahmed Noorani's Activity" align="left" width="50%" />
     </a>
-    <a href="https://github.com/Ahmednoorani258">
-    <img alt="Ahmed Noorani Top Languages"
+    <a href="https://github.com/hassanfarid667">
+    <img alt="Hassan Farid Top Languages"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ahmednoorani258&langs_count=20&layout=compact&theme=react&border_color=0D1117&bg_color=0D1117&title_color=2F80ED&icon_color=F8D866"
          height="192px" />
 </a>
@@ -99,7 +99,7 @@
 
 <p align="center">
        <a href="https://github.com/Ahmednoorani258">
-        <img alt="Ahmed Noorani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ahmednoorani258&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
+        <img alt="Hassan Farid's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ahmednoorani258&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
       </a>
 </p>
 
